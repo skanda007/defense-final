@@ -1,0 +1,24 @@
+{
+  "nodes": {
+    "0": [
+      292,
+      595
+    ],
+    "1": [
+      693,
+      515
+    ],
+    "2": [
+      599,
+      620
+    ]
+  },
+  "source": 0,
+  "destination": 2,
+  "types": {
+    "0": "source",
+    "1": "normal",
+    "2": "dest"
+  },
+  "nav_mode": "D*_LITE_ADAPTIVE"
+}
